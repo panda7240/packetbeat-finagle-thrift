@@ -1,0 +1,37 @@
+[[beats-reference]]
+= Beats Platform Reference
+
+include::./version.asciidoc[]
+
+:packetbeat: http://www.elastic.co/guide/en/beats/packetbeat/{doc-branch}
+:metricbeat: http://www.elastic.co/guide/en/beats/metricbeat/{doc-branch}
+:filebeat: http://www.elastic.co/guide/en/beats/filebeat/{doc-branch}
+:winlogbeat: http://www.elastic.co/guide/en/beats/winlogbeat/{doc-branch}
+:security: X-Pack Security
+:ES-version: {stack-version}
+:LS-version: {stack-version}
+:Kibana-version: {stack-version}
+
+include::./overview.asciidoc[]
+
+include::./communitybeats.asciidoc[]
+
+include::./gettingstarted.asciidoc[]
+
+include::./installing-beats.asciidoc[]
+
+include::./repositories.asciidoc[]
+
+include::./visualizing-data.asciidoc[]
+
+include::./dashboards.asciidoc[]
+
+pass::[<?page_header <b>PLEASE NOTE:</b><br/>We are working on updating this section. Some content might be out of date. While you're waiting for updates, you might want to try out the Beat generator at https://github.com/elastic/beat-generator.?>]
+
+include::./newbeat.asciidoc[]
+
+pass::[<?page_header ?>]
+
+include::./newdashboards.asciidoc[]
+
+include::./release.asciidoc[]
