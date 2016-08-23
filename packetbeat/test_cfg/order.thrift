@@ -1,4 +1,4 @@
-namespace java com.zhe800.finagle.thrift.order
+namespace java com.finagle.thrift.order
 
 
 include "result.thrift"
