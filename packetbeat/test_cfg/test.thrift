@@ -1,5 +1,5 @@
 
-namespace java com.zhe800.justtest
+namespace java com.justtest
 
 service HelloService {
     void sayHello()
