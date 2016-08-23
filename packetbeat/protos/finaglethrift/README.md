@@ -41,7 +41,7 @@
  #签出源码
  git clone https://github.com/thanq/beats.git
 
- git checkout zhe800beat
+ git checkout zhexxxbeat
 
  #切换到packetbeat模块
  cd beats/packetbeat
