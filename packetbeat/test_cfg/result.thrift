@@ -1,4 +1,4 @@
-namespace java com.zhe800.finagle.thrift.result
+namespace java com.finagle.thrift.result
 
 
 struct FailDesc {
