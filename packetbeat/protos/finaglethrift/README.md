@@ -61,7 +61,7 @@
 
  go get github.com/siye1982/eagleye-health
 
- # 添加etcd组件
+# 添加etcd组件
  mkdir -p $GOPATH/src/github.com/coreos && cd $GOPATH/src/github.com/coreos && git clone https://github.com/coreos/etcd.git
 
  go get github.com/coreos/etcd
@@ -73,7 +73,7 @@
 
 
  # 添加digger组件
- cd $GOPATH/src && git clone git@git.tuan800-inc.com:ruby/bj-ruby-digger.git digger
+ cd $GOPATH/src && git clone git@git.xxx-inc.com:ruby/bj-ruby-digger.git digger
 
 
  #编译
